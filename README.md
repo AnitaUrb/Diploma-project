@@ -6,14 +6,14 @@ R Shiny package as a framework for web application, and Bioconductor packages as
 
 Technical requirements:
 Due to the requirements of packages:
-R version: 3.6.1 (2019-07-05)
-RStudio version (if using): >= 1.2.1335
+- R version: 3.6.1 (2019-07-05)
+- RStudio version (if using): >= 1.2.1335
 
 To start the application:
  - from RStudio: run command from the console
-    shiny::runApp(path_to_app)
+    - shiny::runApp(path_to_app)
  - from terminal: run command 
-    R -e "shiny::runApp('path_to_app’)"
+    - R -e "shiny::runApp('path_to_app’)"
 
 
 The input from user is the first step of the analysis. 
