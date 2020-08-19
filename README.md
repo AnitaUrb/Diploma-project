@@ -27,4 +27,14 @@ Downstream analysis in the application enables analysis:
 - Finding the DE (differentially expressed) genes
 - Data manipulation (including saving report)
 
-More detailed instructions are available upon request. :)
+Example results:
+
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/heat1.jpg?raw=true "Optional Title")
+
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/volcano.png?raw=true "Optional Title")
+
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/exprp.jpg?raw=true "Optional Title")
+
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/biomart.jpg?raw=true "Optional Title")
+
+More detailed information is available upon request. :)
