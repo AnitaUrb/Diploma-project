@@ -18,7 +18,8 @@ To start the application:
 
 The input from user is the first step of the analysis. 
 However, there is an example data loaded automatically, that is convenient for starting of using app. Supported input data formats are tsv and csv.
-# ![Alt text](/home/anita/Licentiate/img.jpg?raw=true "Optional Title")
+
+![Alt text](https://github.com/AnitaUrb/Licentiate.git/browse.jpg?raw=true "Optional Title")
 
 The next steps can be taken in any order.
 Downstream analysis in the application enables analysis:
