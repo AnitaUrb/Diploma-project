@@ -1,8 +1,8 @@
 # Transcriptomic data analysis app
 
-Goal of this project was to create for users without computational background a convenient and helpful tool for effective RNA-Seq data analysis, 
+Goal of this project was to create for users without computational background a convenient and helpful tool for effective [RNA-Seq](https://en.wikipedia.org/wiki/RNA-Seq) data analysis, 
 visualization and storing information about experimental results. Interactive web application was created using R language with its specialized packages, 
-R Shiny package as a framework for web application, and Bioconductor packages as toolkits for genomic data manipulation.
+[R Shiny](https://shiny.rstudio.com/) package as a framework for web application, and [Bioconductor](https://www.bioconductor.org/) packages as toolkits for genomic data manipulation.
 
 Technical requirements:<br />
 Due to the requirements of packages:
@@ -11,13 +11,13 @@ Due to the requirements of packages:
 
 To start the application:
  - from RStudio: run command from the console
-    - shiny::runApp(path_to_app)
+    - *shiny::runApp(path_to_app)*
  - from terminal: run command 
-    - R -e "shiny::runApp('path_to_app’)"
+    - *R -e "shiny::runApp('path_to_app’)"*
 
 
-The input from user is the first step of the analysis. 
-However, there is an example data loaded automatically, that is convenient for starting of using app. Supported input data formats are tsv and csv.
+The input from user is the first step of the analysis. Supported input data formats are tsv and csv.<br />
+If there is no input data from usesr, an example data is loaded automatically. 
 
 ![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/browse.jpg?raw=true "Optional Title")
 
