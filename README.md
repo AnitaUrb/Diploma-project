@@ -16,7 +16,7 @@ To start the application:
     - *R -e "shiny::runApp('path_to_app’)"*
 
 
-Usage of the app:<br />
+Using of the application:<br />
 The input from user is the first step of the analysis. Supported input data formats are *tsv* and *csv*.<br />
 If there is no input data from user, an example data is loaded automatically. 
 
@@ -27,7 +27,8 @@ The next steps can be taken in any order.<br />
 Downstream analysis in the application enables:
 - Analysis of user’s set of genes
 - Finding the DE ([differentially expressed](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4827276/)) genes
-- Data manipulation (including saving report)
+- Data manipulation (including saving report)<br />
+
 
 Example results:
 
@@ -37,7 +38,8 @@ Example results:
 
 ![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/exprp.jpg?raw=true "Optional Title")
 
-![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/biomart.jpg?raw=true "Optional Title")
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/biomart.jpg?raw=true "Optional Title")<br />
+
 
 
 More information is available upon request.
