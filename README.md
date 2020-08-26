@@ -4,10 +4,10 @@ Goal of this project was to create for users without computational background a 
 visualization and storing information about experimental results. Interactive web application was created using R language with its specialized packages, 
 R Shiny package as a framework for web application, and Bioconductor packages as toolkits for genomic data manipulation.
 
-Technical requirements:
+Technical requirements:<br />
 Due to the requirements of packages:
 - R version: 3.6.1 (2019-07-05)
-- RStudio version (if using): >= 1.2.1335
+- RStudio version (if using): >= 1.2.1335<br />
 
 To start the application:
  - from RStudio: run command from the console
