@@ -11,9 +11,9 @@ Due to the requirements of packages:
 
 To start the application:
  - from RStudio: run command from the console
-    - *shiny::runApp(path_to_unpacked_LIC-app)*
+    - *shiny::runApp(path_to/unpacked_LIC-app)*
  - from terminal: run command 
-    - *R -e "shiny::runApp('path_to_unpacked_LIC-app’)"*
+    - *R -e "shiny::runApp('path_to/unpacked_LIC-app’)"*
 
 
 Using of the application:<br />
