@@ -42,4 +42,4 @@ Example results:
 
 
 
-More information is available upon request.
+More information about project is available upon request.
