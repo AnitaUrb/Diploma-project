@@ -10,7 +10,7 @@ Due to the requirements of packages:
 - *RStudio version (if using): >= 1.2.1335*<br />
 
 To start the application:
- - download app-code directory
+ - download 'app-code' folder
  - from RStudio: run command from the console
     - *shiny::runApp(path_to/app-code)*
  - from terminal: run command 
