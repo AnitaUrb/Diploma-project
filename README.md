@@ -10,10 +10,11 @@ Due to the requirements of packages:
 - *RStudio version (if using): >= 1.2.1335*<br />
 
 To start the application:
+ - download app-code directory
  - from RStudio: run command from the console
-    - *shiny::runApp(path_to/unpacked_LIC-app.zip)*
+    - *shiny::runApp(path_to/app-code)*
  - from terminal: run command 
-    - *R -e "shiny::runApp('path_to/unpacked_LIC-app.zip’)"*
+    - *R -e "shiny::runApp('path_to/app-code’)"*
 
 
 Using of the application:<br />
