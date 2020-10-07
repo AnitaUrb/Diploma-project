@@ -33,13 +33,13 @@ The next steps can be taken in any order.<br />
 
 Example results:
 
-![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/heat1.jpg?raw=true "Optional Title")
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/jpgs/heat1.jpg?raw=true "Optional Title")
 
-![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/volcano.png?raw=true "Optional Title")
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/jpgs/volcano.png?raw=true "Optional Title")
 
-![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/exprp.jpg?raw=true "Optional Title")
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/jpgs/exprp.jpg?raw=true "Optional Title")
 
-![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/biomart.jpg?raw=true "Optional Title")<br />
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/jpgs/biomart.jpg?raw=true "Optional Title")<br />
 
 
 
