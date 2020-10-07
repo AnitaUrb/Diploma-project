@@ -20,7 +20,7 @@ Using of the application:<br />
 The input from user is the first step of the analysis. Supported input data formats are *tsv* and *csv*.<br />
 If there is no input data from user, an example data is loaded automatically. 
 
-![alt text](https://github.com/AnitaUrb/Licentiate/jpgs/blob/master/browse.jpg?raw=true "Optional Title")
+![alt text](https://github.com/AnitaUrb/Licentiate/blob/master/jpgs/browse.jpg?raw=true "Optional Title")
 
 
 Downstream analysis in the application enables:
