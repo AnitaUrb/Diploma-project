@@ -1,0 +1,55 @@
+---
+title: "RNA-Seq analysis report."
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+options(tinytex.verbose = TRUE)
+```
+
+Data from user(showed 10 first rows):
+``` {r echo=FALSE, results='asis'}
+library(knitr)
+kable(userBase()[1:10,])
+```
+
+Box plot of expression levels via samples:
+``` {r echo=FALSE}
+expr_via_samples()
+```
+
+Density plot of expression levels via samples:
+``` {r echo=FALSE}
+density_via_samples()
+```
+
+Table of top DE (differentially expressed) genes:
+``` {r echo=FALSE, results='asis'}
+library(knitr)
+kable(smallp_table())
+```
+
+Box plot of specific genes (top 10):
+``` {r echo=FALSE}
+de_genes_expr()
+```
+
+Heat map of z-scaled levels of gene expression:
+``` {r echo=FALSE}
+heatmap_reactiv()
+```
+
+Volcano plot of gene expression (satisfying requirements genes are blue):
+``` {r echo=FALSE}
+volcano_plot()
+```
+
+Table with downloaded annotations from Biomart:
+``` {r echo=FALSE,results='asis'}
+library(knitr)
+if (!is.null(do_raportu$BM)) {
+  return(kable(do_raportu$BM))
+}else{
+  return(NULL)}
+```
